@@ -41,6 +41,7 @@ Plug 'majutsushi/tagbar'
 Plug 'w0rp/ale'
 Plug 'Yggdroot/indentLine'
 Plug 'avelino/vim-bootstrap-updater'
+let g:polyglot_disabled = ['python']
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 
