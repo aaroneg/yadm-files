@@ -27,19 +27,19 @@ call plug#begin(expand('~/.vim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-Plug 'scrooloose/nerdtree'
-Plug 'jistr/vim-nerdtree-tabs'
+"" Plug 'scrooloose/nerdtree'
+"" Plug 'jistr/vim-nerdtree-tabs'
 Plug 'tpope/vim-commentary'
-Plug 'tpope/vim-fugitive'
+"" Plug 'tpope/vim-fugitive'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'airblade/vim-gitgutter'
+"" Plug 'airblade/vim-gitgutter'
 Plug 'vim-scripts/grep.vim'
 Plug 'vim-scripts/CSApprox'
-Plug 'Raimondi/delimitMate'
-Plug 'majutsushi/tagbar'
+"" Plug 'Raimondi/delimitMate'
+"" Plug 'majutsushi/tagbar'
 Plug 'w0rp/ale'
-Plug 'Yggdroot/indentLine'
+"" Plug 'Yggdroot/indentLine'
 Plug 'avelino/vim-bootstrap-updater'
 let g:polyglot_disabled = ['python']
 Plug 'sheerun/vim-polyglot'
